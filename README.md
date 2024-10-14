@@ -10,7 +10,10 @@ Please contact **Renuka** for **Training and Certification** @ [8374899166](http
 ------
 
 
+
 ## 01. Python
+<details>
+<summary>Python Basic Level</summary>
 ### Python Basic Level
 
 1. Install Anaconda
@@ -47,7 +50,7 @@ Please contact **Renuka** for **Training and Certification** @ [8374899166](http
 4. break
 5. continue
 6. for loop
-
+</details>
 ### Advanced Python
 
 1. System_Defined_Functions

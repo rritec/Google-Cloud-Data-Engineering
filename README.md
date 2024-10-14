@@ -159,11 +159,21 @@ Please contact **Renuka** for **Training and Certification** @ [8374899166](http
 ### Cloud Storage
 
 1. Introduction of Cloud Storage
-2. Create Bucket
-3. Upload content to Bucket
-4. Understanding renaming of files
+2. Standard Storage
+3. Nearline Storage
+4. Coldline Storage
+5. Archive Storage
+6. Create Bucket
+7. Upload content to Bucket
+8. Understanding renaming of files
+9. Download, Share and Manage Objects
 
 ### Cloud SQL
+
+1. What is Cloud SQL
+2. Create Database of your intrest MySQL, SQL Server, PostgreSQL
+3. Write different Queries.
+
 ### BigQuery
 ### DataFlow
 ### DataProc

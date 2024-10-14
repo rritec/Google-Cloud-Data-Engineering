@@ -75,20 +75,20 @@ Please contact **Renuka** for **Training and Exam DP-203: Data Engineering on Mi
 
 ## 02. BigData
 
-1. **BigData Introduction**
+### **BigData Introduction**
 
 - What is BigData
 - BigData properties
 - When to choose bigdata
 
-2. **BigData VM Installation**
+### **BigData VM Installation**
 
 - Oracle Virtual box installation
 - Cloudera VM installation
 - winscp Installation
 - Putty Installation
 
-3. **Linux commands**
+### **Linux commands**
 
 - Working with folders
 - create folder
@@ -106,7 +106,7 @@ Please contact **Renuka** for **Training and Exam DP-203: Data Engineering on Mi
 - find command
 - ... etc
 
-4. **HDFS**
+### **HDFS**
 
 - mkdir command
 - put command
@@ -117,7 +117,7 @@ Please contact **Renuka** for **Training and Exam DP-203: Data Engineering on Mi
 - merge command
 - ... etc
 
-5. **Hive**
+### **Hive**
 
 - Hive Metastore
 - Hive Managed Tables
@@ -128,7 +128,7 @@ Please contact **Renuka** for **Training and Exam DP-203: Data Engineering on Mi
 - Partitioning
 - Bucketing
 
-4. **Sqoop**
+### **Sqoop**
 
 - Sqoop Introduction
 - sqoop list-tables
@@ -138,7 +138,7 @@ Please contact **Renuka** for **Training and Exam DP-203: Data Engineering on Mi
 - Import All Tables
 - Import table from mysql to hive
 
-5. **Pyspark**
+### **Pyspark**
 
 - Spark Introduction
 - Spark Architecture

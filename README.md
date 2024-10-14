@@ -193,10 +193,68 @@ Please contact **Renuka** for **Training and Certification** @ [8374899166](http
 3. Write different Queries.
 
 ### BigQuery
+
+1. Introduction about BigQuery Studio
+2. Create Dataset
+3. Create Table
+4. Load data from CSV file to BigQuery
+5. Load data from JSON file to BigQuery
+6. Analyse data with Queries
+7. Creating and using tables
+8. Introduction to partitioned tables
+9. Introduction to BigQuery ML
+10. Predefined roles and permissions
+11. Introduction to loading data
+12. Loading CSV data from Cloud Storage
+13. Exporting table data
+14. Create machine learning models in BigQuery ML
+15. Querying external data sources
+
 ### DataFlow
+
+1. Create a Dataflow pipeline using Python
+2. Create a streaming pipeline using a Dataflow template
+3. Build and run a Flex Template
+4. Deploy Dataflow pipelines
+5. Develop with notebooks
+6. Troubleshooting and debugging
+
 ### DataProc
+
+1. Overview of Dataproc Workflow Templates
+2. Dataproc on GKE Quickstart
+3. Configure Dataproc Hub
+4. Create a Dataproc Custom Image
+5. Write a MapReduce job with the BigQuery connector
+6. Use the Cloud Storage connector with Apache Spar
+
 ### Cloud Data Fusion
+
+1. Create a data pipeline by using Cloud Data Fusion
+2. Creating a Cloud Data Fusion instance
+3. Creating a private instance
+4. Using JDBC drivers with Cloud Data Fusion
+5. Access control
+6. Enabling and disabling Cloud Data Fusion
+7. Granting service account user permission
+8. Viewing pipeline logs in Cloud Logging
+9. Using VPC Service Controls with Cloud Data Fusion
+
 ### Composer(Airflow)
+
+1. Run an Apache Airflow DAG in Cloud Composer 1
+2. Features
+3. Creating environments
+4. Writing DAGs (workflows)
+5. Triggering DAGs (workflows)
+6. Monitoring environments
+7. Setting Environment Variables
+
 ### BigTable
+1. Create an instance and write data with the cbt CLI
+2. Schema design best practices
+3. Create and manage tables
+4. Create and manage backups
+5. Integrations with 
 
 </details>

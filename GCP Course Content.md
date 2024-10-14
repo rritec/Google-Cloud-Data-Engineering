@@ -19,10 +19,10 @@ Please contact **Renuka** for **Training and Certification** @ [8374899166](http
 
 1. Install Anaconda
 1. understand markdown language
-        1. How to write Python code in normal notepad
-        2. How to write Python code in spyder
-        3. How to write Python code in Visual Studio Code
-        4. How to write Python code in in jupyter/ JupyterLab
+1. How to write Python code in normal notepad
+2. How to write Python code in spyder
+3. How to write Python code in Visual Studio Code
+4. How to write Python code in in jupyter/ JupyterLab
 5. Different Python Objects
 1. int
 2. float

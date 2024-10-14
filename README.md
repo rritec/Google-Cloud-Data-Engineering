@@ -1,11 +1,11 @@
 # Google Cloud(GCP)-Data-Engineering Course Content
-## For Training Contact 91 - 8374899166
+
 
 ------
 
 This Repository has **Cloud Data Engineering** Training Materials developed by **Myla Ram Reddy**.
 
-Please contact **Renuka** for **Training and Exam DP-203: Data Engineering on Microsoft Azure** @ [8374899166](https://wa.me/918374899166)(whatsapp)
+Please contact **Renuka** for **Training and Certification** @ [8374899166](https://wa.me/918374899166)(whatsapp)
 
 ------
 
@@ -155,4 +155,18 @@ Please contact **Renuka** for **Training and Exam DP-203: Data Engineering on Mi
 2. Data Engineer Roles & Responsibilities
 3. Types of Data
 4. Steaming Vs Batch Data
-## 
+
+### Cloud Storage
+
+1. Introduction of Cloud Storage
+2. Create Bucket
+3. Upload content to Bucket
+4. Understanding renaming of files
+
+### Cloud SQL
+### BigQuery
+### DataFlow
+### DataProc
+### Cloud Data Fusion
+### Composer(Airflow)
+### BigTable

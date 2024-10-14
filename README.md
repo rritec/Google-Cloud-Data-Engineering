@@ -11,11 +11,10 @@ Please contact **Renuka** for **Training and Certification** @ [8374899166](http
 
 
 
-## 01. Python
+<details>
+<summary> 01. Python</summary>
 <details>
 <summary>Python Basic Level</summary>
-### Python Basic Level
-
 1. Install Anaconda
 1. understand markdown language
 1. How to write Python code in normal notepad
@@ -51,7 +50,9 @@ Please contact **Renuka** for **Training and Certification** @ [8374899166](http
 5. continue
 6. for loop
 </details>
-### Advanced Python
+
+<details>
+<summary>Advanced Python</summary>
 
 1. System_Defined_Functions
 1. create functions
@@ -76,7 +77,12 @@ Please contact **Renuka** for **Training and Certification** @ [8374899166](http
 
 
 
-## 02. BigData
+</details>
+</details>
+
+<details>
+<summary>02. BigData</summary>
+
 
 ### **BigData Introduction**
 
@@ -151,7 +157,7 @@ Please contact **Renuka** for **Training and Certification** @ [8374899166](http
 - Spark DF
 - Spark SQL
 - Spark Structured Streaming
-
+</details>
 ## 03. GCP-Data-Engineering
 ### Fundamentals of GCP-Data-Engineering
 1. What is Data Engineering

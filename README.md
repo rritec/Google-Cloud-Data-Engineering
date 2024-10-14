@@ -162,6 +162,11 @@ Please contact **Renuka** for **Training and Certification** @ [8374899166](http
 
 </details>
 
+
+
+<details>
+<summary>03. GCP-Data-Engineering>
+
 ## 03. GCP-Data-Engineering
 ### Fundamentals of GCP-Data-Engineering
 1. What is Data Engineering
@@ -193,3 +198,5 @@ Please contact **Renuka** for **Training and Certification** @ [8374899166](http
 ### Cloud Data Fusion
 ### Composer(Airflow)
 ### BigTable
+
+</details>

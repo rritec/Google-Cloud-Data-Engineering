@@ -10,7 +10,8 @@ Please contact **Renuka** for **Training and Exam DP-203: Data Engineering on Mi
 ------
 
 
-# Python Basic Level
+## 01. Python
+### Python Basic Level
 
 1. Install Anaconda
 1. understand markdown language
@@ -47,7 +48,7 @@ Please contact **Renuka** for **Training and Exam DP-203: Data Engineering on Mi
 5. continue
 6. for loop
 
-# Advanced Python
+### Advanced Python
 
 1. System_Defined_Functions
 1. create functions
@@ -72,7 +73,7 @@ Please contact **Renuka** for **Training and Exam DP-203: Data Engineering on Mi
 
 
 
-# BigData
+## 02. BigData
 
 1. **BigData Introduction**
 
@@ -146,7 +147,10 @@ Please contact **Renuka** for **Training and Exam DP-203: Data Engineering on Mi
 - Spark RDD with Scala
 - Spark DF
 - Spark SQL
-- Spark Structured Streaming## Fundamentals of GCP-Data-Engineering
+- Spark Structured Streaming
+
+## 03. GCP-Data-Engineering
+### Fundamentals of GCP-Data-Engineering
 1. What is Data Engineering
 2. Data Engineer Roles & Responsibilities
 3. Types of Data

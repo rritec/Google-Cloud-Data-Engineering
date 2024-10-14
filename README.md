@@ -165,7 +165,7 @@ Please contact **Renuka** for **Training and Certification** @ [8374899166](http
 
 
 <details>
-<summary>03. GCP-Data-Engineering>
+<summary> 03. GCP-Data-Engineering </summary>
 
 ## 03. GCP-Data-Engineering
 ### Fundamentals of GCP-Data-Engineering

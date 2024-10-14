@@ -15,6 +15,7 @@ Please contact **Renuka** for **Training and Certification** @ [8374899166](http
 <summary> 01. Python</summary>
 <details>
 <summary>Python Basic Level</summary>
+
 1. Install Anaconda
 1. understand markdown language
 1. How to write Python code in normal notepad
@@ -49,6 +50,7 @@ Please contact **Renuka** for **Training and Certification** @ [8374899166](http
 4. break
 5. continue
 6. for loop
+
 </details>
 
 <details>
@@ -157,7 +159,9 @@ Please contact **Renuka** for **Training and Certification** @ [8374899166](http
 - Spark DF
 - Spark SQL
 - Spark Structured Streaming
+
 </details>
+
 ## 03. GCP-Data-Engineering
 ### Fundamentals of GCP-Data-Engineering
 1. What is Data Engineering

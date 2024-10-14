@@ -13,45 +13,45 @@ Please contact **Renuka** for **Training and Certification** @ [8374899166](http
 
 <details>
 <summary> 01. Python</summary>
-  <details>
-  <summary>Python Basic Level</summary>
-  
-  1. Install Anaconda
-  1. understand markdown language
-  1. How to write Python code in normal notepad
-  2. How to write Python code in spyder
-  3. How to write Python code in Visual Studio Code
-  4. How to write Python code in in jupyter/ JupyterLab
-  5. Different Python Objects
-  1. int
-  2. float
-  3. complex
-  4. str
-  5. bool
-  6. range
-  6. Data Structures
-  1. list
-  2. Dict
-  3. Tuple
-  4. Set
-  5. Mutable Vs Immutable
-  7. Read items of str /list/Dict/Tuple/Set/range ..etc
-  1. index
-  2. slice
-  3. fancy
-  8. Operators
-  1. Comparision(>,<,>=,<=,...)
-  2. Logical/bool(and/or/not)
-  3. Numpy logical (logical_and/logical_or/logical_not)
-  9. Control Flows
-  1. input
-  2. if elif elif ... else
-  3. while loop
-  4. break
-  5. continue
-  6. for loop
-  
-  </details>
+    <details>
+    <summary>Python Basic Level</summary>
+    
+    1. Install Anaconda
+    1. understand markdown language
+    1. How to write Python code in normal notepad
+    2. How to write Python code in spyder
+    3. How to write Python code in Visual Studio Code
+    4. How to write Python code in in jupyter/ JupyterLab
+    5. Different Python Objects
+    1. int
+    2. float
+    3. complex
+    4. str
+    5. bool
+    6. range
+    6. Data Structures
+    1. list
+    2. Dict
+    3. Tuple
+    4. Set
+    5. Mutable Vs Immutable
+    7. Read items of str /list/Dict/Tuple/Set/range ..etc
+    1. index
+    2. slice
+    3. fancy
+    8. Operators
+    1. Comparision(>,<,>=,<=,...)
+    2. Logical/bool(and/or/not)
+    3. Numpy logical (logical_and/logical_or/logical_not)
+    9. Control Flows
+    1. input
+    2. if elif elif ... else
+    3. while loop
+    4. break
+    5. continue
+    6. for loop
+    
+    </details>
 
 <details>
 <summary>Advanced Python</summary>

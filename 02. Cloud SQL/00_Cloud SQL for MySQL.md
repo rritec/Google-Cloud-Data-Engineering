@@ -49,9 +49,4 @@ SELECT * FROM entries;
 
 
 
-| guestName    | content           | entryID |
-------------------------------------------
-| first guest  | I got here!       |       1 |
-| second guest | Me too!           |       2 |
-
 
